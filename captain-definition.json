@@ -1,0 +1,11 @@
+{
+    "schemaVersion": 2,
+    "dockerfilePath": "./Dockerfile",
+    "containerHttpPort": 7860,
+    "volumes": [
+        {
+            "volumeName": "flux-data",
+            "containerPath": "/app/data"
+        }
+    ]
+}
