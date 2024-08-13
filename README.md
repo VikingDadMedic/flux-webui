@@ -1,4 +1,4 @@
-# Flux WebUI
+sour# Flux WebUI
 
 Minimal Flux Web UI powered by Gradio & Diffusers. Automatically downloads checkpoints from Huggingface so everything "just works".
 
